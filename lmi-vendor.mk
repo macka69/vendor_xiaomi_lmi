@@ -323,6 +323,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libalAILDC.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libalAILDC.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libalLDC.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libalLDC.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libalhLDC.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libalhLDC.so \
+    vendor/xiaomi/lmi/proprietary/vendor/lib64/libarcdualcamsat.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcdualcamsat.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_beautyshot.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libarcsoft_bodyslim.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_bodyslim.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libarcsoft_distortion_correction.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_distortion_correction.so \
@@ -377,6 +378,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libmialgo_sd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_sd.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libmialgo_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_utils.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libmialgo_video_colourkeeping.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_video_colourkeeping.so \
+    vendor/xiaomi/lmi/proprietary/vendor/lib64/libmialgo_video_enhance.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_video_enhance.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libmialgo_video_seg.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_video_seg.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libmialgoengine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgoengine.so \
     vendor/xiaomi/lmi/proprietary/vendor/lib64/libmibokeh_845_video.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmibokeh_845_video.so \
